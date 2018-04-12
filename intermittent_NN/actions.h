@@ -1,0 +1,23 @@
+int get_num_sense();
+int get_num_preprocess();
+int get_num_select();
+int get_num_store();
+int get_num_pick();
+int get_num_learnable();
+int get_num_extract();
+int get_num_learn();
+int get_num_evaluate();
+int get_num_expect();
+int get_num_infer();
+
+int (*get_sense(int num))();
+int (*get_preprocess(int num))();
+int (*get_store(int num))();
+int (*get_select(int num))();
+int (*get_pick(int num))();
+int (*get_learnable(int num))();
+int (*get_extract(int num))();
+int (*get_learn(int num))();
+int (*get_evaluate(int num))();
+int (*get_expect(int num))();
+int (*get_infer(int num))();
