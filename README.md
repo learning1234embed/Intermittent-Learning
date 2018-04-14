@@ -6,4 +6,6 @@ This repository provides an implementation for the paper 'intermittent learning 
 
 2. intermittent_k_means - an example code of intermittent k-means algorithm. Online k-means based on neural network (semi-supervised learning) is implemented with online example selection heuristics, i.e. K-Last Lists (diversity and representative).
 
-3. intermittent_learning - a template (skeleton) code for intermittent learning. Each action function is provided with an empty template. You can fill the action functions with your own machine learning algorithm.
+3. intermittent_k_nn - an example code of intermittent k-nearest neighbors algorithm. Features are extracted from raw data and clusters are formed based on distances between features. It is unsupervised learning.
+
+4. intermittent_learning - a template (skeleton) code for intermittent learning. Each action function is provided with an empty template. You can fill the action functions with your own machine learning algorithm.
