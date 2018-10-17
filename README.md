@@ -1,4 +1,4 @@
-# Implementation of the paper 'Intermittent Learning on Harvested Energy'
+# Implementation of the paper 'Intermittent Learning: On-Device Machine Learning on Intermittently Powered System'
 
 This repository provides an implementation for the paper 'intermittent learning on harvested energy'. It is written for the MSP430FR5994 microprocessor (256Kb FRAM, 8Kb SRAM) and its launchpad with an energy harvester. You can download and compile source code by using Code Composer Studio (Version: 7.4.0.00015).
 
