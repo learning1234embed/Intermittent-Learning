@@ -11,6 +11,9 @@ This repository provides an implementation for the **[IMWUT](https://dl.acm.org/
 4. **intermittent_learning** - a template (skeleton) code for intermittent learning. Each action function is provided with an empty template. You can fill the action functions with your own machine learning algorithm.
 
 ## Citation (BibTeX)
+
+**[Intermittent Learning: On-Device Machine Learning on Intermittently Powered System](https://dl.acm.org/doi/10.1145/3369837)**
+
 ```
 @article{lee2019intermittent,
   title={Intermittent Learning: On-Device Machine Learning on Intermittently Powered System},
