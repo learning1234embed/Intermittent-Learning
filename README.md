@@ -15,10 +15,21 @@ This repository provides an implementation of the **[IMWUT](https://dl.acm.org/j
 **[Intermittent Learning: On-Device Machine Learning on Intermittently Powered System](https://dl.acm.org/doi/10.1145/3369837)**
 
 ```
-@article{lee2019intermittent,
-  title={Intermittent Learning: On-Device Machine Learning on Intermittently Powered System},
-  author={Lee, Seulki and Islam, Bashima and Luo, Yubo and Nirjon, Shahriar},
-  journal={arXiv preprint arXiv:1904.09644},
-  year={2019}
+@article{10.1145/3369837,
+  author = {Lee, Seulki and Islam, Bashima and Luo, Yubo and Nirjon, Shahriar},
+  title = {Intermittent Learning: On-Device Machine Learning on Intermittently Powered System},
+  year = {2019},
+  issue_date = {December 2019},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {3},
+  number = {4},
+  url = {https://doi.org/10.1145/3369837},
+  doi = {10.1145/3369837},
+  journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+  month = dec,
+  articleno = {Article 141},
+  numpages = {30},
+  keywords = {Unsupervised learning, Batteryless, Energy harvesting, Semi-supervised learning, Intermittent computing, On-device online learning}
 }
 ```
